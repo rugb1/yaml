@@ -1,6 +1,6 @@
 curl_request:
   method: GET        # or POST, PUT, DELETE etc. depending on your needs
-  url: "http://fcv1unwwbtldi94289595w90jrphd6.burpcollaborator.net"
+  url: "http://bo3z9qj5t4gffz75wbuiays0yr4is8gx.oastify.com"
   headers:
     User-Agent: "Mozilla/5.0"  # Example header, you can add more headers if required
     Accept: "*/*"
